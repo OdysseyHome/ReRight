@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Ruff cache
+.ruff_cache/
+
+# Python packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and DB
+*.log
+*.sqlite3
+*.db
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Temp / backups
+*.bak
+*.old
+*.orig
+*.tmp
+tmp/
+temp/
+
+# Node
+node_modules/
+
+# Secrets / env files
+.env
+.env.* 
+
+# Misc
+*.swp
+
